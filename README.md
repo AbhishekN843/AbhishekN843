@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Abhishek! 👋
+### Java Full Stack Developer | MCA '24
 
-<!--
-**AbhishekN843/AbhishekN843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate software engineer focused on building scalable backend systems using **Java** and **Spring Boot**. I am currently upskilling in Data Structures and Algorithms.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: **Backend Development Projects**
+- 🌱 I’m currently learning: **Advanced Java & DSA**
+- 💼 Connect with me on [LinkedIn] https://www.linkedin.com/in/abhishek-nmca/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Java, SQL
+- **Frameworks:** Spring Boot, Hibernate
+- **Tools:** Git, Postman, Eclipse/IntelliJ
+- **Database:** MySQL
+
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekN843&show_icons=true&theme=radical)
