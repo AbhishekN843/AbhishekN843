@@ -12,5 +12,3 @@ I am a passionate software engineer focused on building scalable backend systems
 - **Frameworks:** Spring Boot, Hibernate
 - **Tools:** Git, Postman, Eclipse/IntelliJ
 - **Database:** MySQL
-
-![Abhishek's GitHub stats](https://github-profile-trophy.vercel.app/?username=AbhishekN843&theme=radical)
