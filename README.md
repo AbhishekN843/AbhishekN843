@@ -13,4 +13,4 @@ I am a passionate software engineer focused on building scalable backend systems
 - **Tools:** Git, Postman, Eclipse/IntelliJ
 - **Database:** MySQL
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhishekN843&show_icons=true&theme=radical)
+![Abhishek's GitHub stats](https://github-profile-trophy.vercel.app/?username=AbhishekN843&theme=radical)
